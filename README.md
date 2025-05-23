@@ -24,10 +24,6 @@
 
 ---
 
-## 📥 Prueba el proyecto
-
-Haz clic en el siguiente enlace para descargar la versión ejecutable:
-[Prueba Mr Store Gratis](MrStore2.0.exe)
 
 ---
 
